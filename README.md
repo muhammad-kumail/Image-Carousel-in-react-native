@@ -3,6 +3,6 @@ Just `git clone https://github.com/muhammad-kumail/Image-Carousel-in-react-nativ
 ## Demo
 ![ezgif com-resize](https://user-images.githubusercontent.com/56933027/222711434-f2d6389f-63e0-4c69-af84-c14753756168.gif)
 ## Execution
-run command in root folder `npm run android`
+Run command in root folder `npm run android`
 ## Note 
-First install react-native-snap-carousel module using command `expo install react-native-snap-carousel`
+First install react-native-snap-carousel module using command `expo install react-native-snap-carousel` before executing a project
